@@ -1,0 +1,12 @@
+[
+  {"text": "where is my order", "label": "order_status"},
+  {"text": "track my order", "label": "order_status"},
+  {"text": "cancel my order", "label": "cancel_order"},
+  {"text": "i want refund", "label": "refund"},
+  {"text": "subscription issue", "label": "subscription"},
+  {"text": "app not working", "label": "technical_issue"},
+  {"text": "payment failed", "label": "payment_issue"},
+  {"text": "hello", "label": "greeting"},
+  {"text": "bye", "label": "goodbye"},
+  {"text": "i have complaint", "label": "complaint"}
+]

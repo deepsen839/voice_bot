@@ -1,0 +1,89 @@
+# =========================
+# 🔥 Python / FastAPI
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Virtual env
+venv/
+env/
+app/myenv/
+app/venv/
+app/env/
+myenv/
+# Logs
+*.log
+
+# =========================
+# 🔥 ML / Models (IMPORTANT)
+# =========================
+# HuggingFace cache
+.huggingface/
+hf_cache/
+.cache/
+
+# Model checkpoints
+checkpoint-*/
+runs/
+
+# Large model files (optional)
+*.bin
+*.pt
+*.ckpt
+*.safetensors
+
+# If you want to KEEP final model, comment above and use:
+# !app/intent_model/
+
+# =========================
+# 🔥 Dataset / Audio
+# =========================
+*.wav
+*.mp3
+audio/
+temp_*.wav
+
+# Large datasets
+*.csv
+*.zip
+
+# =========================
+# 🔥 React (Frontend)
+# =========================
+node_modules/
+build/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# =========================
+# 🔥 OS / System
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# 🔥 IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# 🔥 Misc
+# =========================
+*.swp
+*.tmp

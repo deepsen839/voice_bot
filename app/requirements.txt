@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+transformers=4.41.2
+torch
+datasets
+evaluate
+jiwer=2.5.2
+faster-whisper
+soundfile
+ffmpeg-python
+numpy
+scikit-learn
+pandas
+matplotlib
+seaborn
+python-multipart

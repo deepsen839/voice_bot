@@ -1,0 +1,30 @@
+# ---------------- BACKEND ----------------
+fastapi
+uvicorn
+python-multipart
+
+# ---------------- ML ----------------
+torch
+transformers
+datasets
+scikit-learn
+numpy
+
+# ---------------- ASR ----------------
+faster-whisper
+
+# ---------------- TTS ----------------
+edge-tts
+
+# ---------------- AUDIO ----------------
+soundfile
+noisereduce
+
+# ---------------- METRICS ----------------
+evaluate
+
+# ---------------- VISUALIZATION ----------------
+matplotlib
+seaborn
+datasets
+jiwer=2.5.2
