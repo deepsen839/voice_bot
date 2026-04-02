@@ -62,7 +62,7 @@ experience
 ### 1. Clone Repository
 
 ``` bash
-git clone <your-repo-link>
+git clone https://github.com/deepsen839/voice_bot/
 cd real_time_audio
 ```
 
